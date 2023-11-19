@@ -19,8 +19,6 @@ jobs:
         run: docker-compose run --rm app sh -c "python manage.py wait_for_db && coverage run manage.py test"
       - name: Lint
         run: docker-compose run --rm app sh -c "flake8"
-      - name: Coverage
-        run: docker-compose run --rm app sh -c "coverage report && coverage xml"
       - name: Upload coverage reports to Codecov
         uses: codecov/codecov-action@v3
         env:
