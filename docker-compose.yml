@@ -10,6 +10,7 @@ services:
       - "8000:8000"
     volumes:
       - ./app:/app
+      - dev-static-data:/vol/web
     environment:
       - PATH=/py/bin:$PATH
       - DB_HOST=db
@@ -34,3 +35,4 @@ services:
 
 volumes:
   dev-db-data:
+  dev-static-data:
