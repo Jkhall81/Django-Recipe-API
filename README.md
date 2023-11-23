@@ -76,4 +76,4 @@ For API documentation, go to localhost:8000/api/docs after the server is running
 
 ## Testing
 
-All testing done with Django and Django testing framework, and the Django Rest Framework test client / testing utilities. Tests are located within test folders for each respective app within the Django project.
+All testing done with Django and the Django Rest Framework test client / testing utilities. Tests are located within test folders for each respective app within the Django project.
