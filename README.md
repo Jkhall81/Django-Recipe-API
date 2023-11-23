@@ -5,13 +5,14 @@ Rest Framework.
 
 This API is not currently deployed.
 
+[![codecov](https://codecov.io/gh/Jkhall81/Django-Recipe-API/graph/badge.svg?token=LAQ8BWW4LN)](https://codecov.io/gh/Jkhall81/Django-Recipe-API)
+
 ## Table of Contents
 
 1. [Technologies_Used](#technologies_used)
 2. [Features](#features)
-3. [Baddges](#badges)
-4. [Usage](#usage)
-5. [Testing](#testing)
+3. [Usage](#usage)
+4. [Testing](#testing)
 
 ## Technologies_Used
 
@@ -67,10 +68,6 @@ docker-compose up
 ```
 
 5. Interact with the API at localhost:8000
-
-## Badges
-
-Under construction. Sounds like a good idea ut I've never done a badge before. Going to try to get Codecov to work again.
 
 ## Usage
 
