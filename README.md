@@ -7,6 +7,7 @@ This API is not currently deployed.
 
 [![codecov](https://codecov.io/gh/Jkhall81/Django-Recipe-API/graph/badge.svg?token=LAQ8BWW4LN)](https://codecov.io/gh/Jkhall81/Django-Recipe-API)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Powered by Django](https://www.djangoproject.com/m/img/badges/djangopowered126x54.gif)](http://www.djangoproject.com/)
 
 ## Table of Contents
 
