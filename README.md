@@ -3,10 +3,11 @@
 Recipe API created using Test Drive Development, Django, and the Django
 Rest Framework.
 
-This API is not currently deployed.
-
 [![codecov](https://codecov.io/gh/Jkhall81/Django-Recipe-API/graph/badge.svg?token=LAQ8BWW4LN)](https://codecov.io/gh/Jkhall81/Django-Recipe-API)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+This API is not currently deployed.
+
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
