@@ -7,7 +7,10 @@ This API is not currently deployed.
 
 [![codecov](https://codecov.io/gh/Jkhall81/Django-Recipe-API/graph/badge.svg?token=LAQ8BWW4LN)](https://codecov.io/gh/Jkhall81/Django-Recipe-API)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![A Django project](https://www.djangoproject.com/m/img/badges/djangoproject120x25.gif)](http://www.djangoproject.com/)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Table of Contents
 
